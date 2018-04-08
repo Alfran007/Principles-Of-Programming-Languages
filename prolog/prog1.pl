@@ -1,0 +1,1 @@
+likes(alfran,ppl).
